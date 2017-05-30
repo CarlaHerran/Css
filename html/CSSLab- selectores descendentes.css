@@ -1,0 +1,25 @@
+ul a {
+  color: red;
+
+}
+
+.menu {
+  color:red;
+
+}
+
+ul.menu a {
+  color: red;
+
+}
+
+ul li > a {
+  color: blue;
+
+}
+
+ul li > em {
+  color: blue;
+
+}
+
